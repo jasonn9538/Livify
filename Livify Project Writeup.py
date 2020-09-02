@@ -505,6 +505,9 @@ for i in chunks:
 		I were to implement the song profile data structure, the AI will need a LOT more training as there are almost 1000000000 different 
 		song profiles that could possibly exist. 
 
+		Taking this program and adding a web UI with Django and Heroku will most likely be the next step after ensuring that the recommender
+		algorithm is working to the best of it's ability.
+
 '''
 
 ########################################################################################################################################
